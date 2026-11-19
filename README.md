@@ -26,6 +26,7 @@ Cursando **Engenharia da Computação** e focado no desenvolvimento de soluçõe
 
 ### 🚀 Projetos em Destaque
 
+- 🏆 **[github-achievements-tracker](https://github.com/LucasValeQueiroz/github-achievements-tracker)** ([Demo ao vivo](https://lucasvalequeiroz.github.io/github-achievements-tracker/)): Dashboard interativo conectado à GitHub REST API v3 para acompanhar progresso de GitHub Achievements, gerar trailers `Co-authored-by` e exportar badges de perfil.
 - 🏢 **[meta-omnichannel-saas](https://github.com/LucasValeQueiroz/meta-omnichannel-saas)**: Plataforma SaaS monorepo para gestão omnichannel (Meta Graph API, WhatsApp, Instagram), construída com NestJS, Next.js, PostgreSQL e RabbitMQ.
 - 💬 **[luma-wpp-sidecar](https://github.com/LucasValeQueiroz/luma-wpp-sidecar)**: Microserviço em Node.js com Baileys e MongoDB para automação de mensagens e integração com CRM.
 - 📄 **[api-danfe-xml](https://github.com/LucasValeQueiroz/api-danfe-xml)**: API segura em Node.js para conversão de XML de NF-e em documento DANFE (PDF), protegida por autenticação em tempo constante.
