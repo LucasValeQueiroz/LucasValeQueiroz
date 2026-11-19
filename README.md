@@ -1,18 +1,14 @@
-<h1>Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px" alt="Waving hand"></h1>
+<h1>Olá, eu sou o Lucas Vale! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px" alt="Waving hand"></h1>
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FLucasValeQueiroz&label=visitors%20(daily%2Ftotal)%3A&labelColor=%230d1117&countColor=%232ea043&labelStyle=upper&dateShow=true)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLucasValeQueiroz)
 
 <p align="center">
   <a href="https://github.com/LucasValeQueiroz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Oi%2C+eu+sou+o+%40LucasValeQueiroz...;Engenharia+da+Computa%C3%A7%C3%A3o+%7C+Backend+%26+DevOps;Arquitetura+de+Software+%26+Sistemas+Distribu%C3%ADdos;Construindo+APIs%2C+automa%C3%A7%C3%B5es+e+Open+Source!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Engenharia+da+Computa%C3%A7%C3%A3o+%7C+Backend+%26+Cloud+(GCP);Cloud+Run+%E2%80%A2+Cloud+SQL+(PostgreSQL)+%E2%80%A2+RLS+%E2%80%A2+Migra%C3%A7%C3%A3o;AI+Engineering+%E2%80%A2+FastAPI+%E2%80%A2+Guardrails+%26+Evals;Cybersecurity+%26+AppSec+%E2%80%A2+Sistemas+Multi-tenant" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="Matrix code rain" width="520" />
-</p>
-
-Cursando **Engenharia da Computação** e focado no desenvolvimento de soluções escaláveis de **Backend, Arquitetura de Software e DevOps**. Apaixonado por construir sistemas distribuídos, integrações em tempo real, automações inteligentes e contribuir com Open Source.
+Estudante de **Engenharia da Computação** atuando na arquitetura, migração e segurança de sistemas em produção — com foco em **Google Cloud (GCP)**, **Backend Multi-tenant**, **Migração de Dados & Cloud**, **AI Engineering** e **Cybersecurity / AppSec**.
 
 <h3>Connect with me:</h3>
 <p align="left">
@@ -29,18 +25,37 @@ Cursando **Engenharia da Computação** e focado no desenvolvimento de soluçõe
 
 ---
 
+<h2>🧭 O que eu construo na prática</h2>
+
+- ☁️ **Cloud Architecture & Migração (GCP):** migração de sistemas legados e bancos para **Google Cloud** (**Cloud Run**, **Cloud SQL PostgreSQL**, **Cloud Storage**, **Secret Manager** e **Firebase Hosting**), guiada por **ADRs** (*Architecture Decision Records*) e medições reais.
+- 🛡️ **Cybersecurity & AppSec:** **security assessments**, auditorias de aplicações web e extensões, remediação de vulnerabilidades, hardening de containers (*non-root*), canais assinados com **HMAC**, **CSP**, headers de segurança e gestão *zero-secrets*.
+- 🤖 **AI Engineering & Dados:** agentes com **Gemini, OpenAI e Claude** combinados com **guardrails determinísticos em Python (FastAPI)**, suítes automatizadas de **evals** contra *prompt injection* e vazamento de dados, além de automação analítica com **Pandas + Streamlit**.
+- ⚙️ **Backend Multi-tenant & Automação:** isolamento de dados no PostgreSQL com **Row-Level Security (RLS)** e **PL/pgSQL**, monorepos (**Turborepo + pnpm + Drizzle ORM**), integrações **WhatsApp Cloud API / Meta Graph API** e extensões de navegador (**Chrome/Edge Manifest V3**).
+
+---
+
 <details open>
-  <summary><h3>📚 Um pouco do que eu domino (e continuo estudando) 📝...</h3></summary>
+  <summary><h3>📚 Stack & Ferramentas</h3></summary>
   <br>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,cs,nodejs,nestjs,express,react,nextjs,tailwind&perline=12" alt="Languages and Web Frameworks" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,cs,nodejs,nestjs,express,fastapi,react,nextjs&perline=12" alt="Languages and Frameworks" />
     <br><br>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq,docker,aws,githubactions,git,github,linux,bash,vscode&perline=12" alt="Databases, Cloud and DevOps" />
+    <img src="https://skillicons.dev/icons?i=gcp,firebase,aws,postgres,mongodb,redis,rabbitmq,docker,vercel,githubactions,git,linux&perline=12" alt="Cloud, Databases and DevOps" />
     <br><br>
-    <img src="https://img.shields.io/badge/Fastify-242938?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-    <img src="https://img.shields.io/badge/BullMQ-242938?style=for-the-badge&logo=redis&logoColor=DC382D" alt="BullMQ" />
-    <img src="https://img.shields.io/badge/Docker%20Compose-242938?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker Compose" />
-    <img src="https://img.shields.io/badge/AWS%20Lambda%20%7C%20S3%20%7C%20IAM-242938?style=for-the-badge&logoColor=FF9900" alt="AWS Services" />
+    <img src="https://skillicons.dev/icons?i=tailwind,pnpm,powershell,bash,vscode,github&perline=6" alt="Tooling and Scripting" />
+    <br><br>
+    <img src="https://img.shields.io/badge/Cloud%20Run-242938?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Cloud Run" />
+    <img src="https://img.shields.io/badge/Cloud%20SQL%20%26%20RLS-242938?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="Cloud SQL & RLS" />
+    <img src="https://img.shields.io/badge/Secret%20Manager-242938?style=for-the-badge&logo=googlecloud&logoColor=34A853" alt="Secret Manager" />
+    <img src="https://img.shields.io/badge/Drizzle%20ORM-242938?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle ORM" />
+    <img src="https://img.shields.io/badge/Turborepo-242938?style=for-the-badge&logo=turborepo&logoColor=EF4444" alt="Turborepo" />
+    <br>
+    <img src="https://img.shields.io/badge/Gemini%20%7C%20OpenAI%20%7C%20Claude-242938?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="LLMs" />
+    <img src="https://img.shields.io/badge/AppSec%20%7C%20HMAC%20%7C%20CSP-242938?style=for-the-badge&logo=owasp&logoColor=3FB950" alt="AppSec" />
+    <img src="https://img.shields.io/badge/Chrome%20Extensions%20MV3-242938?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Chrome Extensions MV3" />
+    <img src="https://img.shields.io/badge/Playwright%20%26%20Pytest-242938?style=for-the-badge&logo=pytest&logoColor=0A9EDC" alt="Playwright & Pytest" />
+    <img src="https://img.shields.io/badge/Fastify%20%26%20BullMQ-242938?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify & BullMQ" />
+    <img src="https://img.shields.io/badge/Pandas%20%26%20Streamlit-242938?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Pandas & Streamlit" />
   </div>
   <br>
   <p align="right"><em>"Tools are just tools, what's most important is to know the principles."</em></p>
@@ -48,7 +63,7 @@ Cursando **Engenharia da Computação** e focado no desenvolvimento de soluçõe
 
 ---
 
-<h2>🚀 Projeto em Destaque</h2>
+<h2>🚀 Projetos Públicos em Destaque</h2>
 
 <p align="center">
   <a href="https://lucasvalequeiroz.github.io/github-achievements-tracker/" target="_blank">
@@ -57,24 +72,24 @@ Cursando **Engenharia da Computação** e focado no desenvolvimento de soluçõe
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/LucasValeQueiroz/github-achievements-tracker">🏆 github-achievements-tracker</a></strong> — Dashboard interativo conectado à GitHub REST API v3 para acompanhar conquistas do perfil, gerar trailers <code>Co-authored-by</code>, exportar badges e gerar cards PNG/SVG.<br>
+  <strong><a href="https://github.com/LucasValeQueiroz/github-achievements-tracker">🏆 github-achievements-tracker</a></strong> — Dashboard conectado à GitHub REST API v3 com análise de conquistas, gerador de trailers <code>Co-authored-by</code>, cards PNG/SVG e CLI <code>Ship-PR</code> para GitHub Flow.<br>
   <a href="https://lucasvalequeiroz.github.io/github-achievements-tracker/">🌐 Demo ao vivo</a> •
   <a href="https://lucasvalequeiroz.github.io/github-achievements-tracker/docs.html">📖 Documentação</a> •
   <a href="https://github.com/LucasValeQueiroz/github-achievements-tracker">💻 Código-fonte</a>
 </p>
 
 <details open>
-  <summary><h3>📂 Outros Projetos Públicos</h3></summary>
+  <summary><h3>📂 Portfólio Público</h3></summary>
   <br>
 
 | Projeto | Stack | Descrição |
 | :--- | :--- | :--- |
-| 🏢 **[meta-omnichannel-saas](https://github.com/LucasValeQueiroz/meta-omnichannel-saas)** | NestJS, Next.js, PostgreSQL, RabbitMQ | Plataforma SaaS monorepo para gestão omnichannel (Meta Graph API, WhatsApp e Instagram). |
-| 💬 **[luma-wpp-sidecar](https://github.com/LucasValeQueiroz/luma-wpp-sidecar)** | Node.js, Baileys, MongoDB | Microserviço para automação de mensagens e integração em tempo real com CRM. |
-| 📄 **[api-danfe-xml](https://github.com/LucasValeQueiroz/api-danfe-xml)** | Node.js, PDF | API segura para conversão de XML de NF-e em documento DANFE (PDF) com autenticação em tempo constante. |
-| 📑 **[separador-folhas-pdf](https://github.com/LucasValeQueiroz/separador-folhas-pdf)** | Python, CustomTkinter, PyPDF | Utilitário desktop com interface drag-and-drop para separar folhas digitalizadas de arquivos PDF. |
+| 🤖 **[desafio_tecnico_ai_eng_artefact](https://github.com/LucasValeQueiroz/desafio_tecnico_ai_eng_artefact)** | Python, FastAPI, Gemini/OpenAI/Claude, Pytest | Agente de IA com **guardrails determinísticos** (o modelo conversa, o Python decide o que é verdade) — **47/47 cenários aprovados** em evals sem vazamento ou manipulação. |
+| 🏢 **[meta-omnichannel-saas](https://github.com/LucasValeQueiroz/meta-omnichannel-saas)** | NestJS, Fastify, Next.js, PostgreSQL (RLS), RabbitMQ | Plataforma SaaS monorepo para gestão omnichannel no ecossistema Meta (WhatsApp, Instagram e Facebook). |
+| 💬 **[luma-wpp-sidecar](https://github.com/LucasValeQueiroz/luma-wpp-sidecar)** | Node.js, Express, Baileys, Meta Embedded Signup v4, MongoDB | Microserviço de automação WhatsApp/CRM com filas resilientes, testes automatizados com dublês e fail-safe de segurança. |
+| 📄 **[api-danfe-xml](https://github.com/LucasValeQueiroz/api-danfe-xml)** | Node.js, PDF, AppSec | API segura para conversão de XML de NF-e em documento DANFE (PDF) com autenticação em tempo constante. |
+| 📑 **[separador-folhas-pdf](https://github.com/LucasValeQueiroz/separador-folhas-pdf)** | Python, PyPDF | Utilitário desktop para separar páginas digitalizadas de arquivos PDF com interface simples. |
 | ☁️ **[AWSLambda](https://github.com/LucasValeQueiroz/AWSLambda)** | AWS Lambda, GitHub Actions | Pipelines de CI/CD automatizadas no GitHub Actions para deploy serverless na AWS. |
-| 🤖 **[desafio_tecnico_ai_eng_artefact](https://github.com/LucasValeQueiroz/desafio_tecnico_ai_eng_artefact)** | Python, AI Engineering | Solução técnica de engenharia de IA com deploy web. |
 
 </details>
 
@@ -120,28 +135,23 @@ Cursando **Engenharia da Computação** e focado no desenvolvimento de soluçõe
   </p>
 </details>
 
-<details open>
-  <summary>🎨 ASCII Art 🖌️</summary>
+<details align="left">
+  <summary>🧱 Blueprint de Arquitetura (ASCII autoral)</summary>
   <br>
 
-```
-The "Internet" consists of many computers, all over the world,
-connected to each other:
-
-  ___   _      ___   _      ___   _      ___   _      ___   _
- [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
-  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
- /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
-       |____________|____________|____________|____________|
-                             |            |            |
-                         ___  \_      ___  \_      ___  \_
-                        [(_)] |=|    [(_)] |=|    [(_)] |=|
-                         '-`  |_|     '-`  |_|     '-`  |_|
-                        /mmm/        /mmm/        /mmm/
-
-These computers can then be used to communicate with each other in many different ways.
-Three of the most common ones are "The Web", "Email" and "Discussion groups"
-(also called "Newsgroups").
+```text
+  [ Next.js / Chrome Ext MV3 ]
+               │
+        TLS + CSP + Auth
+               ▼
+  ┌─────────────────────────────────────────┐
+  │    Google Cloud Run (non-root Docker)   │
+  │   Node.js / NestJS  •  Python FastAPI   │
+  └──────┬───────────────────────────┬──────┘
+         │ HMAC / Secret Manager     │ Deterministic Guardrails + Evals
+         ▼                           ▼
+  [ Cloud SQL (PostgreSQL) ]   [ Gemini / OpenAI / Claude ]
+  [   PL/pgSQL + RLS       ]   [   Automation & Insights  ]
 ```
 
 </details>
@@ -159,7 +169,6 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups"
     <li>Activity Graph por <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank">Ashutosh00710</a></li>
     <li>Daily Streak Stats por <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">DenverCoder1</a></li>
     <li>Waving Footer por <a href="https://github.com/kyechan99/capsule-render" target="_blank">capsule-render</a></li>
-    <li>ASCII Art de <a href="https://ascii.co.uk/art/internet" target="_blank">ascii.co.uk/art</a></li>
   </ul>
 </details>
 
