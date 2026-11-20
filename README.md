@@ -66,6 +66,20 @@ Estudante de **Engenharia da Computação** atuando na arquitetura, migração e
 <h2>🚀 Projetos Públicos em Destaque</h2>
 
 <p align="center">
+  <a href="https://lucasvalequeiroz.github.io/astrobit/" target="_blank">
+    <img src="https://raw.githubusercontent.com/LucasValeQueiroz/astrobit/main/assets/og-preview.svg" alt="AstroBit — Jogo Espacial de Programação" width="680" />
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://github.com/LucasValeQueiroz/astrobit">🚀 AstroBit</a></strong> — Jogo educativo open-source (zero dependências) para ensinar programação do básico a loops, sensores, funções (<code>F1</code>/<code>F2</code>), depuração (<em>Caça ao Bug!</em>) e código real JS/Python em <strong>5 mundos e 30 fases</strong> com mapa galáctico animado, quebra-cabeça SVG e Oficina Criadora (<code>?custom=</code>) — <strong>27/27 testes <code>node --test</code></strong>.<br>
+  <a href="https://lucasvalequeiroz.github.io/astrobit/">🎮 Jogar ao vivo</a> •
+  <a href="https://github.com/LucasValeQueiroz/astrobit">💻 Código-fonte</a>
+</p>
+
+<br>
+
+<p align="center">
   <a href="https://lucasvalequeiroz.github.io/github-achievements-tracker/" target="_blank">
     <img src="https://lucasvalequeiroz.github.io/github-achievements-tracker/assets/og-preview.png" alt="GitHub Achievements Tracker Preview" width="680" />
   </a>
@@ -84,6 +98,7 @@ Estudante de **Engenharia da Computação** atuando na arquitetura, migração e
 
 | Projeto | Stack | Descrição |
 | :--- | :--- | :--- |
+| 🚀 **[astrobit](https://github.com/LucasValeQueiroz/astrobit)** | Vanilla ES Modules, Canvas 2D, Web Audio API, `node --test` | Jogo educativo espacial com interpretador AST puro, transpiler JS/Python ao vivo, 30 fases provadas com `3★`, história em 5 atos, mapa galáctico e oficina de fases por URL. |
 | 🤖 **[desafio_tecnico_ai_eng_artefact](https://github.com/LucasValeQueiroz/desafio_tecnico_ai_eng_artefact)** | Python, FastAPI, Gemini/OpenAI/Claude, Pytest | Agente de IA com **guardrails determinísticos** (o modelo conversa, o Python decide o que é verdade) — **47/47 cenários aprovados** em evals sem vazamento ou manipulação. |
 | 🏢 **[meta-omnichannel-saas](https://github.com/LucasValeQueiroz/meta-omnichannel-saas)** | NestJS, Fastify, Next.js, PostgreSQL (RLS), RabbitMQ | Plataforma SaaS monorepo para gestão omnichannel no ecossistema Meta (WhatsApp, Instagram e Facebook). |
 | 💬 **[luma-wpp-sidecar](https://github.com/LucasValeQueiroz/luma-wpp-sidecar)** | Node.js, Express, Baileys, Meta Embedded Signup v4, MongoDB | Microserviço de automação WhatsApp/CRM com filas resilientes, testes automatizados com dublês e fail-safe de segurança. |
