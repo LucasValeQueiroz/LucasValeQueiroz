@@ -72,7 +72,7 @@ Estudante de **Engenharia da Computação** atuando na arquitetura, migração e
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/LucasValeQueiroz/astrobit">🚀 AstroBit v2.0</a></strong> — Jogo educativo open-source (zero dependências) para ensinar programação do básico a loops, sensores, funções (<code>F1</code>/<code>F2</code>), portais de buraco de minhoca, depuração (<em>Caça ao Bug!</em>) e código real JS/Python em <strong>6 mundos e 36 fases (⭐ 108)</strong>, com mapa galáctico animado 60fps, Missão Diária + Streak, 12 Medalhas Espaciais, trilha sonora interativa em Web Audio, Drag &amp; Drop tátil e Oficina Criadora (<code>?custom=</code>) — <strong>34/34 testes <code>node --test</code></strong>.<br>
+  <strong><a href="https://github.com/LucasValeQueiroz/astrobit">🚀 AstroBit v2.1 + 🧪 Lab AAA</a></strong> — Jogo educativo open-source (zero dependências) que ensina programação de blocos encaixáveis a loops, sensores, funções (<code>F1</code>/<code>F2</code>), portais de buraco de minhoca, depuração (<em>Caça ao Bug!</em>) e código real JS/Python em <strong>6 mundos e 36 fases (⭐ 108)</strong> — agora com o <strong>🧪 Lab AAA</strong> (<strong>7 simuladores 60fps</strong> de Frustum Culling, LOD, Data Streaming, Layered AI/Boids, Fluido Híbrido, Ray Tracing BVH e Upscaling DLSS/FSR + FPS Profiler + 7 Quizzes), Missão Diária + Streak, <strong>13 Medalhas Espaciais</strong>, trilha procedural Web Audio, Drag &amp; Drop tátil e Oficina (<code>?custom=</code>) — <strong>42/42 testes <code>node --test</code></strong>.<br>
   <a href="https://lucasvalequeiroz.github.io/astrobit/">🎮 Jogar ao vivo</a> •
   <a href="https://github.com/LucasValeQueiroz/astrobit">💻 Código-fonte</a>
 </p>
@@ -86,11 +86,24 @@ Estudante de **Engenharia da Computação** atuando na arquitetura, migração e
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/LucasValeQueiroz/github-achievements-tracker">🏆 github-achievements-tracker</a></strong> — Dashboard conectado à GitHub REST API v3 com análise de conquistas, gerador de trailers <code>Co-authored-by</code>, cards PNG/SVG e CLI <code>Ship-PR</code> para GitHub Flow.<br>
+  <strong><a href="https://github.com/LucasValeQueiroz/github-achievements-tracker">🏆 github-achievements-tracker</a></strong> — Dashboard 100% client-side (zero dependências) conectado à <strong>GitHub REST API v3 + GraphQL</strong> com auto-detecção de conquistas, comparador lado a lado, calculadora de ritmo Pull Shark, histórico local, gerador de trailers <code>Co-authored-by</code>, cards PNG/SVG 1200×630 e CLI <code>Ship-PR</code> para GitHub Flow — <strong>31/31 testes <code>node --test</code></strong>.<br>
   <a href="https://lucasvalequeiroz.github.io/github-achievements-tracker/">🌐 Demo ao vivo</a> •
   <a href="https://lucasvalequeiroz.github.io/github-achievements-tracker/docs.html">📖 Documentação</a> •
   <a href="https://github.com/LucasValeQueiroz/github-achievements-tracker">💻 Código-fonte</a>
 </p>
+
+<details open>
+  <summary><h3>🌍 Contribuições Open-Source & Comunidade</h3></summary>
+  <br>
+
+| Projeto | Stack / Escala | Contribuição |
+| :--- | :--- | :--- |
+| 🤖 **[elie222/rakazo](https://github.com/elie222/rakazo/pull/6003)** | TypeScript AI Agent (`~9.3k★`) | ✅ PR `#6003` **Merged** |
+| 🔐 **[simple-acme/simple-acme](https://github.com/simple-acme/simple-acme/pull/838)** | C# / .NET (`~680★`) | ✅ PR `#838` **Merged** |
+| 🌐 **[nesquena/hermes-webui](https://github.com/nesquena/hermes-webui/pull/9344)** | Python AI WebUI (`~19.6k★`) | 🟢 PR `#9344` **Open** (`greptile 5/5`, CI verde) |
+| 🧠 **[immich-app/immich](https://github.com/immich-app/immich/discussions/33669)** & comunidade | GitHub Discussions (`~120k★`+) | ✅ **4 respostas técnicas aceitas** (**Galaxy Brain**) auditadas direto no código-fonte |
+
+</details>
 
 <details open>
   <summary><h3>📂 Portfólio Público</h3></summary>
@@ -98,7 +111,7 @@ Estudante de **Engenharia da Computação** atuando na arquitetura, migração e
 
 | Projeto | Stack | Descrição |
 | :--- | :--- | :--- |
-| 🚀 **[astrobit](https://github.com/LucasValeQueiroz/astrobit)** | Vanilla ES Modules, Canvas 2D, Web Audio API, `node --test` | Jogo educativo espacial com interpretador AST puro, transpiler JS/Python ao vivo, 36 fases provadas com `3★`, Mundo 6 de portais, Missão Diária, 12 Medalhas, trilha sonora procedural e oficina por URL. |
+| 🚀 **[astrobit](https://github.com/LucasValeQueiroz/astrobit)** | Vanilla ES Modules, Canvas 2D, Web Audio API, `node --test` | Jogo educativo espacial com interpretador AST puro, transpiler JS/Python ao vivo, 36 fases provadas com `3★`, **`🧪 Lab AAA`** (7 simuladores 60fps + FPS Profiler + Quizzes), Missão Diária, 13 Medalhas, trilha sonora procedural e oficina por URL (`42/42` testes). |
 | 🤖 **[desafio_tecnico_ai_eng_artefact](https://github.com/LucasValeQueiroz/desafio_tecnico_ai_eng_artefact)** | Python, FastAPI, Gemini/OpenAI/Claude, Pytest | Agente de IA com **guardrails determinísticos** (o modelo conversa, o Python decide o que é verdade) — **47/47 cenários aprovados** em evals sem vazamento ou manipulação. |
 | 🏢 **[meta-omnichannel-saas](https://github.com/LucasValeQueiroz/meta-omnichannel-saas)** | NestJS, Fastify, Next.js, PostgreSQL (RLS), RabbitMQ | Plataforma SaaS monorepo para gestão omnichannel no ecossistema Meta (WhatsApp, Instagram e Facebook). |
 | 💬 **[luma-wpp-sidecar](https://github.com/LucasValeQueiroz/luma-wpp-sidecar)** | Node.js, Express, Baileys, Meta Embedded Signup v4, MongoDB | Microserviço de automação WhatsApp/CRM com filas resilientes, testes automatizados com dublês e fail-safe de segurança. |
