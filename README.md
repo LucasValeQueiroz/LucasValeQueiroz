@@ -18,9 +18,6 @@ Estudante de **Engenharia da Computação** atuando na arquitetura, migração e
   <a href="mailto:lucasvale2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/LucasValeQueiroz?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/LucasValeQueiroz?label=Followers&logo=GitHub&style=for-the-badge&color=1f6feb" alt="GitHub Followers" align="right" />
-  </a>
 </p>
 
 ---
@@ -127,15 +124,13 @@ Estudante de **Engenharia da Computação** atuando na arquitetura, migração e
 
 <p align="center">
   <a href="https://github.com/LucasValeQueiroz">
-    <img src="https://github-profile-trophy-fast.vercel.app/?username=LucasValeQueiroz&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-fast.vercel.app/?username=LucasValeQueiroz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=5&margin-w=10&margin-h=10&title=-Stars,-Followers" alt="GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasValeQueiroz&theme=transparent" alt="Summary Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasValeQueiroz&theme=transparent&utcOffset=-3" alt="Productive Time UTC-3" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasValeQueiroz&theme=transparent" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasValeQueiroz&theme=transparent" alt="Most Commit Language" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LucasValeQueiroz&show_icons=true&hide=stars&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=LucasValeQueiroz&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
 </p>
 
 <br>
@@ -144,11 +139,9 @@ Estudante de **Engenharia da Computação** atuando na arquitetura, migração e
   <summary>📊 Mais Estatísticas (clique aqui)</summary>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=LucasValeQueiroz&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=LucasValeQueiroz&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
-  </p>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasValeQueiroz&theme=tokyonight" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasValeQueiroz&theme=transparent&utcOffset=-3" alt="Productive Time UTC-3" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasValeQueiroz&theme=transparent" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasValeQueiroz&theme=transparent" alt="Most Commit Language" />
   </p>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasValeQueiroz&radius=16&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
